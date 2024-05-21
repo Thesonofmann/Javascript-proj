@@ -1,1 +1,1 @@
-This is the initial commit
+This is a repo for 15 Javascript projects
